@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dikshita124
-- 
+  
 - 👀 I’m interested in Learning, Programming and Research on innovative technology.
 - 🌱 I’m currently learning Data Science.
-- 
+  
 - 📫 How to reach me: dikshitabagde2706@gmail.com
 
 <!---
